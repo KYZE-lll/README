@@ -11,68 +11,10 @@ KYZE lll
 </p>
 
 <br>
-
-### Bot Discord Button
-<br>
-
-## Installation
-<br>
-<br>
-
-# Install Package
-<br>
-
-```
-npm i discord-button
-```
-
-<br>
-
-# Install Index.js
-<br>
-
-[Download Index.js](https://github.com/ProtonD/discord-button)
-
-<br>
-<br>
-<br>
-
-## Picture
-
-<br>
-<img src="https://i.imgur.com/Rz0mrZz.png">
-<br>
-<img src="https://i.imgur.com/uaTuq7g.png">
-<br>
-<img src="https://i.imgur.com/SCNfGPI.png">
-
-
-## 📞 Contact me
-
 [Discord](https://www.discord.gg/3t2568W)
 [Twitter](https://twitter.com/oldmodz95)
-<br>
 [YouTube (Server Private)](https://exotique.fr2.quickconnect.to/?launchApp=SYNO.SDS.VideoStation.AppInstance#!libOldModz95/N4IgNglgRgTghjAniAXCAFgewLYFMD6AbhACa6YC0A7CADQgDGcALrgOaZKohxhh0gADnDa5UARgC+QA)
-<p>Username: ytb <br>
-Password: oldmodz95</p>
-
-<br />
-
-## 🔧 Technologies & Tools
-
-
-###### Version control system
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
-
-###### License
-
-![License](https://img.shields.io/github/license/OldModz95-YTB/version-en-bot-discord-auth.gg)
-
-###### Operating systems
-
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=Windows&logoColor=FCC624)
-
+</br>
 
 ## &#x1f4c8; GitHub Stats
 
